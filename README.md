@@ -1,4 +1,8 @@
+![E-Commerce Funnel Dashboard](ecommerce_funnel_dashboard.png)
+
+
 \# 🛒 E-Commerce Sales Funnel \& Marketing Attribution Analysis
+
 
 
 
